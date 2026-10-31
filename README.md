@@ -7,6 +7,12 @@
 - 필요한 모드: Cobblemon, Spawn Filter, Fabric API
 - 설치: 서버에만 넣으면 됩니다. 접속하는 사람(클라이언트)은 이 모드가 없어도 됩니다.
 
+## 다운로드
+
+**[⬇ poke-events-1.5.2.jar 다운로드](https://github.com/minerapai/poke-events/releases/download/v1.5.2/poke-events-1.5.2.jar)**
+
+받은 jar 파일을 마인크래프트(또는 서버) 폴더의 `mods` 폴더에 넣으면 됩니다. 다른 버전은 [Releases](https://github.com/minerapai/poke-events/releases) 에 있습니다.
+
 ## 기능
 
 - 이로치 이벤트: 일정 시간 이로치 확률 증가
