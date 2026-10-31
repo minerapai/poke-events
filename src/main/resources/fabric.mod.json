@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "pokeevents",
+  "version": "${version}",
+  "name": "Poke Events",
+  "description": "Server side events: shiny chance boost and pokemon outbreaks (through spawn-filter), started with /pokeevent or on a weekly schedule, shown with a boss bar. Clients do not need this mod.",
+  "license": "MIT",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "kr.pokeevents.PokeEvents"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "fabric-api": "*",
+    "cobblemon": ">=1.7.0",
+    "spawnfilter": ">=1.10.0"
+  }
+}
